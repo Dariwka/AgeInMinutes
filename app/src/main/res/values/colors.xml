@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0EAC14</color>
+    <color name="colorPrimaryDark">#074C0A</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorBackground">#B9DCEF</color>
+    <color name="colorText">#FF6162</color>
+    <color name="colorUnderText">#AF6060</color>
+    <color name="colorBackgroundButton">#05394F</color>
+    <color name="colorBackgroundSelectButton">#E1FF42</color>
+    <color name="colorTextSelectButton">#2A466D</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

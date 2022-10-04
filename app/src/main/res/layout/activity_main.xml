@@ -68,7 +68,7 @@
         android:layout_marginTop="5dp"
         android:text="Selected Date"
         android:textColor="@color/colorUnderText"
-        android:textSize="15sp"/>
+        android:textSize="18sp"/>
 
     <TextView
         android:id="@+id/tvSelectedDateInMinutes"
